@@ -1,0 +1,14 @@
+Company: TechNova
+
+TechNova is a software company that builds cloud-based applications.
+
+The company uses Python, C#, React, and Azure in its technology stack.
+
+The engineering team follows Agile and Scrum practices.
+
+The company has three main engineering teams:
+1. Platform Engineering
+2. Product Engineering
+3. AI Engineering
+
+The AI Engineering team works on LLM applications, RAG systems, and AI agents.
